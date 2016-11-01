@@ -1,1 +1,1 @@
-Presentation for RSE-Sheffield. View the presentation at http://rse.shef.ac.uk/RSE_Sheffield/#/
+Presentation for RSE-Sheffield. View the presentation at https://mikecroucher.github.io/RSE_Service/#/
